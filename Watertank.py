@@ -1,3 +1,4 @@
+#Created by Dawn
 print('Please input the length of each label(m), split by " "： ')
 lst=input().split(' ')
 for i in range(len(lst)):
